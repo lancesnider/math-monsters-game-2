@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Game Sprite Atlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 846f9e3855aacbbcf5593b6bb4484e71
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 846f9e3855aacbbcf5593b6bb4484e71
+    totalSpriteSurfaceArea: 2120946
+    packables:
+    - {fileID: 102900000, guid: 9776abdcc302b4edf85406efc9ae3a9f, type: 3}
+    - {fileID: 102900000, guid: abe7a4b72b5304214b6a98b47c219994, type: 3}
+    - {fileID: 102900000, guid: 5da6f91cd7116407bb3def840852638d, type: 3}
+    packedSpriteRenderDataKeys:
+    - ed774e098c43543c285da1395974f19f: 21300000
+    - 5f7d20f3b078f49b0ac6f889f35897ef: 21300000
+    - 52a4871e4f9de4cd39f08c4a4011b410: 21300000
+    - 2ede5766b6a6b409a92c6ef21882440c: 21300000
+    - bf2d22796c9a14e5cadc35df7da924c1: 21300000
+    - 511bfa724bc9d4e359f9aca81af89952: 21300000
+    - f42c975f49ada438b982defe8d86b85e: 21300000
+    - 1336c7ad11137400482eebab4f8a7344: 21300000
+    - c933efc8dab194e8dac55d785e0595fe: 21300000
+    - 667274fa028694c53afb7f71ec4566e3: 21300000
+    - 79dc346b45527488fbec8c7e28eca8af: 21300000
+    - 1562dcfbe914b404b9eb341f4fad9c65: 21300000
+    - bc49432eb1bef402da78fab836251b51: 21300000
+    - 3a49d66391d464573bee1bb8f138b139: 21300000
+    - b7c8229e23f124f88973435d21d78ecc: 21300000
+    - 1f21ee161393f4c01b39a79d886adb3e: 21300000
+    - 60e5d49843b3f49c2ab3a35b49899fb0: 21300000
+    - e1420d2159ee943e592a8568f1fb6b88: 21300000
+    - 6c5b1a99ffd734befa2054569db1b4f3: 21300000
+    - 2aff4184f9d354b568493b7d3fc0bc91: 21300000
+    - faac35b5f3cb845f7af5a38b60b1dd3b: 21300000
+    - 70b3e1807d399468dbb3d7f4ad525827: 21300000
+    - a6490046c66ab467791985037ec4af50: 21300000
+    - 0e0bdd52810f64d2dabc31e06a589f0d: 21300000
+    - a60ced5692ec34a269b5cc040ffa543d: 21300000
+    - ce0999d3d023f40568451204a4e32210: 21300000
+    - 2cfdacca50d2c412fa877102ce663443: 21300000
+    - b3aaaa2a58f0549488fc1823dd897c92: 21300000
+    - 1fa4962098c98496a8d1bafddec6ef9f: 21300000
+    - c5ae91e0924fd4bc4983cb1f1709e2b7: 21300000
+    - bf329d53af9ae4995b75ed90914af4b3: 21300000
+    - a45f5efc8a78d4c4880f45dfc774fb26: 21300000
+    - 4a225b6605f30437b9b171d54322026b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ed774e098c43543c285da1395974f19f, type: 3}
+  - {fileID: 21300000, guid: 5f7d20f3b078f49b0ac6f889f35897ef, type: 3}
+  - {fileID: 21300000, guid: 52a4871e4f9de4cd39f08c4a4011b410, type: 3}
+  - {fileID: 21300000, guid: 2ede5766b6a6b409a92c6ef21882440c, type: 3}
+  - {fileID: 21300000, guid: bf2d22796c9a14e5cadc35df7da924c1, type: 3}
+  - {fileID: 21300000, guid: 511bfa724bc9d4e359f9aca81af89952, type: 3}
+  - {fileID: 21300000, guid: f42c975f49ada438b982defe8d86b85e, type: 3}
+  - {fileID: 21300000, guid: 1336c7ad11137400482eebab4f8a7344, type: 3}
+  - {fileID: 21300000, guid: c933efc8dab194e8dac55d785e0595fe, type: 3}
+  - {fileID: 21300000, guid: 667274fa028694c53afb7f71ec4566e3, type: 3}
+  - {fileID: 21300000, guid: 79dc346b45527488fbec8c7e28eca8af, type: 3}
+  - {fileID: 21300000, guid: 1562dcfbe914b404b9eb341f4fad9c65, type: 3}
+  - {fileID: 21300000, guid: bc49432eb1bef402da78fab836251b51, type: 3}
+  - {fileID: 21300000, guid: 3a49d66391d464573bee1bb8f138b139, type: 3}
+  - {fileID: 21300000, guid: b7c8229e23f124f88973435d21d78ecc, type: 3}
+  - {fileID: 21300000, guid: 1f21ee161393f4c01b39a79d886adb3e, type: 3}
+  - {fileID: 21300000, guid: 60e5d49843b3f49c2ab3a35b49899fb0, type: 3}
+  - {fileID: 21300000, guid: e1420d2159ee943e592a8568f1fb6b88, type: 3}
+  - {fileID: 21300000, guid: 6c5b1a99ffd734befa2054569db1b4f3, type: 3}
+  - {fileID: 21300000, guid: 2aff4184f9d354b568493b7d3fc0bc91, type: 3}
+  - {fileID: 21300000, guid: faac35b5f3cb845f7af5a38b60b1dd3b, type: 3}
+  - {fileID: 21300000, guid: 70b3e1807d399468dbb3d7f4ad525827, type: 3}
+  - {fileID: 21300000, guid: a6490046c66ab467791985037ec4af50, type: 3}
+  - {fileID: 21300000, guid: 0e0bdd52810f64d2dabc31e06a589f0d, type: 3}
+  - {fileID: 21300000, guid: a60ced5692ec34a269b5cc040ffa543d, type: 3}
+  - {fileID: 21300000, guid: ce0999d3d023f40568451204a4e32210, type: 3}
+  - {fileID: 21300000, guid: 2cfdacca50d2c412fa877102ce663443, type: 3}
+  - {fileID: 21300000, guid: b3aaaa2a58f0549488fc1823dd897c92, type: 3}
+  - {fileID: 21300000, guid: 1fa4962098c98496a8d1bafddec6ef9f, type: 3}
+  - {fileID: 21300000, guid: c5ae91e0924fd4bc4983cb1f1709e2b7, type: 3}
+  - {fileID: 21300000, guid: bf329d53af9ae4995b75ed90914af4b3, type: 3}
+  - {fileID: 21300000, guid: a45f5efc8a78d4c4880f45dfc774fb26, type: 3}
+  - {fileID: 21300000, guid: 4a225b6605f30437b9b171d54322026b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - background01
+  - curtains
+  - curtainHalf
+  - 5big
+  - ticketDrills
+  - playAgain
+  - ticket3rd
+  - ticket1st
+  - ticket2nd
+  - ticket4th
+  - foreground
+  - highScoreGradeTxt
+  - faceBg
+  - newHighScore
+  - highScoresTxt
+  - empty
+  - topScoresTxt
+  - backSign
+  - timesUp
+  - halfInactive
+  - halfActive
+  - platform
+  - wrongX
+  - resetScores
+  - starSep
+  - speakerBtnOn
+  - speakerBtnOff
+  - highScoresBtn
+  - connecter
+  - hand
+  - 5bigEye
+  - xSmall
+  - backSignHolder
+  m_Tag: Game Sprite Atlas
+  m_IsVariant: 0
